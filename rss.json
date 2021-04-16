@@ -5,12 +5,16 @@
       "url": "https://sspai.com/feed"
     },
     {
+      "title": "ScienceDaily"
+      "url": "http://www.sciencedaily.com/newsfeed.xml"
+    },
+    {
       "title": "编程随想的博客",
       "url": "https://feeds2.feedburner.com/programthink"
     },
     {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
+      "title": "忧郁的loli",
+      "url": "https://rsshub.app/hhgal"
     },
     {
       "title": "Deepl",
@@ -25,24 +29,24 @@
       "url": "https://rsshub.app/zaker/focusread"
     },
     {
-      "title": "酷安头条",
-      "url": "https://rsshub.app/coolapk/toutiao/latest"
+      "title": "8kcosplay",
+      "url": "https://rsshub.app/8kcos/"
     },
     {
-      "title": "下厨房",
-      "url": " https://rsshub.app/xiachufang/popular/hot"
+      "title": "第一财经周刊",
+      "url": "http://feedmaker.kindle4rss.com/feeds/CBNweekly2008.weixin.xml"
     },
     {
       "title": "Anime News",
-      "url": "https://rsshub.app/animen/news/zx"
+      "url": "http://www.animenewsnetwork.com/main-feed/rss.xml"
     },
     {
       "title": "Hpoi手办维基",
       "url": "https://rsshub.app/hpoi/info/all"
     },
     {
-      "title": "Cell封面故事",
-      "url": "https://rsshub.app/cell/cover"
+      "title": "TheScience|Discover",
+      "url": "http://cosmicvariance.com/feed/"
     }
   ]
 }
