@@ -5,8 +5,8 @@
       "url": "https://sspai.com/feed"
     },
     {
-      "title": "忧郁的loli",
-      "url": "https://rsshub.app/hhgal"
+      "title": "知乎日报",
+      "url": "https://rsshub.app/zhihu/daily"
     },
     {
       "title": "编程随想的博客",
@@ -20,6 +20,10 @@
       "title": "Deepl",
       "url": "https://rsshub.app/deepl/blog"
     },
+     {
+      "title": "MIT科技评论",
+      "url": "https://rsshub.app/mittrchina/hot"
+    },
     {
       "title": "idaily",
       "url": "https://rsshub.app/idaily/today"
@@ -29,8 +33,8 @@
       "url": "https://rsshub.app/zaker/focusread"
     },
     {
-      "title": "8kcosplay",
-      "url": "https://rsshub.app/8kcos/"
+      "title": "知乎热榜",
+      "url": " https://rsshub.app/zhihu/hotlist"
     },
     {
       "title": "第一财经周刊",
