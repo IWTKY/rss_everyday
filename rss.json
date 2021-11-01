@@ -1,88 +1,8 @@
 {
   "rss_info": [
     {
-      "title": "少数派",
-      "url": "https://sspai.com/feed"
-    },
-    {
-      "title": "知乎日报",
-      "url": "https://rsshub.app/zhihu/daily"
-    },
-    {
-      "title": "编程随想的博客",
-      "url": "https://feeds2.feedburner.com/programthink"
-    },
-    {
-      "title": "历史上的今天",
-      "url": "https://feedx.net/rss/wikihistory.xml"
-    },
-    {
-      "title": "观止",
-      "url": "https://feedx.net/rss/guanzhi.xml"
-    },
-    {
-      "title": "小草",
-      "url": "https://t66y.com/read.rss/"
-    },
-    {
-      "title": "cnBeta",
-      "url": "https://feedx.net/rss/cnbetatop.xml"
-    },
-    {
-      "title": "每日古诗文",
-      "url": "https://feedx.net/rss/shiwen.xml"
-    },
-    {
-      "title": "网易轻松一刻",
-      "url": "https://feedx.net/rss/163easy.xml"
-    },
-     {
-      "title": "MIT科技评论",
-      "url": "https://rsshub.app/mittrchina/hot"
-    },
-    {
-      "title": "idaily",
-      "url": "https://rsshub.app/idaily/today"
-    },
-    {
-      "title": "Zarker精读",
-      "url": "https://rsshub.app/zaker/focusread"
-    },
-    {
-      "title": "A岛欢乐恶搞",
-      "url": "https://rsshub.app/adnmb/20"
-    },
-    {
-      "title": "A岛科学",
-      "url": "https://rsshub.app/adnmb/15"
-    },
-    {
-      "title": "未名新闻",
-      "url": "https://rsshub.app/mitbbs"
-    },
-    {
       "title": "Anime News",
       "url": "http://www.animenewsnetwork.com/main-feed/rss.xml"
-    },
-    {
-      "title": "Hpoi手办维基",
-      "url": "https://rsshub.app/hpoi/info/all"
-    },
-        {
-      "title": "环球科学",
-      "url": "https://feedx.net/rss/huanqiukexue.xml"
-    },
-        {
-      "title": "喷嚏图卦",
-      "url": "https://feedx.net/rss/pentitugua.xml"
-    },
-      {
-      "title": "南方周末",
-      "url": "https://feedx.net/rss/infzm.xml"
-    },
-    {
-      "title": "果壳科学人",
-      "url": "https://rsshub.app/guokr/scientific"
     }
   ]
 }
